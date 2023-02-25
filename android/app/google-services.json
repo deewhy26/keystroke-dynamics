@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "180719041787",
+    "project_id": "keystorke-dynamics",
+    "storage_bucket": "keystorke-dynamics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180719041787:android:78fd0c81dad632795e045e",
+        "android_client_info": {
+          "package_name": "com.welabs.keyboard2.keyboard2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180719041787-vc6g74p13uu5575t7uv3jfcqk8uefdth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIWsKoVgaYEpxR5aJpdU4Kn4NnWtk2D2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180719041787-vc6g74p13uu5575t7uv3jfcqk8uefdth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180719041787:android:feedd6e14302fdd25e045e",
+        "android_client_info": {
+          "package_name": "com.welabs.mkeyboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180719041787-vc6g74p13uu5575t7uv3jfcqk8uefdth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIWsKoVgaYEpxR5aJpdU4Kn4NnWtk2D2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180719041787-vc6g74p13uu5575t7uv3jfcqk8uefdth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
